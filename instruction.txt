@@ -1,0 +1,16 @@
+//Create database using sequelize and sqlite3 that have 2 tables: Books and Shelves 
+//From the data provide in books.json and shelves.json
+//name the database library.db
+
+//name the API server.js
+//Write an API that will allow you to create a new book and add it to a shelf
+//Write an API that will allow you to CRUD shelves
+//Write an API that will allow you to CRUD books
+//Write an API that will allow you to get all books from a shelf
+
+//name the front end index.js
+//Write a front end that will allow you to create a new book and add it to a shelf
+//Write a front end that will allow you to CRUD shelves
+//Write a front end that will allow you to CRUD books
+//Write a front end that will allow you to get all books from a shelf
+
